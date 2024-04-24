@@ -1,4 +1,4 @@
-# ciberseguran-a-desafio-phishing
+# cibersegurança phishing
 
 # Phishing para captura de senhas do Facebook
 
